@@ -11,8 +11,11 @@ The third program opens up the link to every individual listing, and saves it in
 The fourth program creates the database from all the listings that were copied.
 
 1-get all room links.py
+
 2-extract all room links.py
+
 3-copy each room offer.py
+
 4-extract all information for searching rooms.py
 
 The "output databse.csv" is the output of the 4th program. 
